@@ -1,0 +1,9 @@
+Django==2.0.1
+django-filter==1.1.0
+djangorestframework==3.7.7
+pytz==2017.3
+
+
+# https://hackernoon.com/creating-websites-using-react-and-django-rest-framework-b14c066087c7
+# TODO:
+# WSGIPassAuthorization On
